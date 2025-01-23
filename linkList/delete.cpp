@@ -46,6 +46,12 @@ void delNodeAE()
 	delete temp->next;
 	temp->next=NULL;
 }
+
+void delNodeatPos(int pos)
+{
+	
+}
+
 void show()
 {
 	Node *temp = head;
@@ -76,4 +82,3 @@ int main ()
 
 	return 0;
 }
-
