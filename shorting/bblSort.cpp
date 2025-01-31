@@ -15,6 +15,13 @@ void bblSort(int arr[],int s)
 			}
 		}
 	}
+void show()
+{
+	for(int i=0;i>=NULL;i++)
+	{
+		cout<<arr[i];
+	}
+}	
 	
 }
 int main ()
